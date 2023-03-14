@@ -347,6 +347,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Scrips/FlameAnimation.cs"
+"Assets/Scrips/OpenDoor.cs"
+"Assets/Scrips/SoundTextDoor.cs"
 -langversion:9.0
 
 /deterministic
