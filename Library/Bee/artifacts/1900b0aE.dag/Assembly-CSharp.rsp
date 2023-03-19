@@ -348,6 +348,7 @@
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Scrips/FlameAnimation.cs"
 "Assets/Scrips/OpenDoor.cs"
+"Assets/Scrips/Sequences/Sequences_01.cs"
 "Assets/Scrips/SoundTextDoor.cs"
 -langversion:9.0
 
