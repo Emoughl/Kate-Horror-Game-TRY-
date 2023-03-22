@@ -24,7 +24,7 @@ public class TriggerM : MonoBehaviour
         yield return new WaitForSeconds(1f);
         tourch.SetActive(false);
         theZombie.SetActive(false);
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(2f);
         tourch.SetActive(true);
     }
 }
